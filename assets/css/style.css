@@ -1,0 +1,24 @@
+.navbar-default {
+    background-color: transparent;
+    border-color:transparent;
+    background-image: none;
+    box-shadow: none;
+    padding-top: 10px;
+}
+
+.navbar-brand {
+    margin: auto;
+}
+
+.container {
+    padding-top: 50px;
+}
+.container .row {
+    margin: 20px;
+}
+
+.container-fluid {
+    display: flex;
+    text-align: center;
+    padding-top: 10px;
+}

@@ -22,3 +22,8 @@
     text-align: center;
     padding-top: 5px;
 }
+
+a {
+    color: black;
+    font-weight: bold;
+}

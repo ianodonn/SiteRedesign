@@ -27,3 +27,38 @@ a {
     color: black;
     font-weight: bold;
 }
+
+.cart {
+    text-align: left;
+}
+
+.nav>li {
+    display: inline;
+}
+
+.cart {
+    float: left;
+}
+
+.CentralNav {
+    float: right;
+}
+
+.headerInner {
+    display: flex;
+    text-align: center;
+}
+
+a#logo {
+    order: 2;
+}
+
+a#cart {
+    order: 1;
+}
+
+li#CentralNav {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
